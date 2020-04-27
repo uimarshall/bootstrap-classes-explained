@@ -1,0 +1,40 @@
+h5 {
+	text-transform: uppercase;
+	margin: 20px 0;
+}
+
+h5 span {
+	text-transform: lowercase;
+}
+
+.course-heading {
+	text-align: center;
+	text-transform: uppercase;
+	color: #7a43b6;
+	border: 5px solid #7a43b6;
+	margin: 50px 0;
+	padding: 10px;
+}
+/* .bg-primary,
+.bg-secondary,
+.bg-success,
+.bg-info,
+.bg-warning,
+.bg-danger {
+	padding: 10px;
+} */
+/*Extra small devices (portrait phones, less than 576px)*/
+/*No media query for `xs` since this is the default in Bootstrap*/
+
+/*Small (-sm-) devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) {
+}
+/*Medium (-md-) devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+}
+/*Large (-lg-) devices (desktops, 992px and up)*/
+@media (min-width: 992px) {
+}
+/*Extra large (-xl-) devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+}
